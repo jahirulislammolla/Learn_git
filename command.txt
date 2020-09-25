@@ -1,1 +1,6 @@
 
+# git --version //see name
+# git config --global user.name jahirul
+# git config user.name // jahirul
+# git config --global user.email jahirul.iit5th@gmail.com
+# git config user.email // jahirul.iit5th@gmail.com
